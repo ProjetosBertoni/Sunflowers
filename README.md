@@ -41,7 +41,7 @@ Criar uma plataforma web que reúna informações úteis sobre a acessibilidade 
 
 Caso tenha interesse em colaborar ou quiser saber mais sobre o projeto, fique à vontade para me chamar por aqui:
 
-- [💼 LinkedIn – Felipe Santos](https://www.linkedin.com/in/felipesbc)  
+- [💼 LinkedIn – Felipe Bertoni](https://www.linkedin.com/in/felipesbc)  
 - 📧 E-mail: bertones.felipe@gmail.com
 
 ---
